@@ -6,7 +6,7 @@ export const FALLBACK_WALLETS_LIST: WalletInfoDTO[] = [
         name: 'Wallet',
         image: 'https://wallet.tg/images/logo-288.png',
         about_url: 'https://wallet.tg/',
-        universal_url: 'https://t.me/wallet?attach=wallet',
+        universal_url: 'https://t.me/wallet/start',
         bridge: [
             {
                 type: 'sse',
